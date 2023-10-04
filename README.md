@@ -1,5 +1,9 @@
-<h1 >Hallo, I'm Dijah!</h1>
-<h3>⭐ Security minded software engineer ⭐</h3>
+<h1 align="left">Hallo, I'm Dijah!</h1>
+<h3 align="left">⭐ Security minded software engineer ⭐</h3>
+
+  my website: dijahcodes.github.io
+  e-mail: dijah (AT) dijah (DOT) codes
+  (yes, the domain is a .codes)
 
 - ✨ I'm a dev that's back in the US after spending most of the last two years in Germany.
 - ✨I mostly use React, but I'm still exploring technologies to see what I like and don't like
@@ -7,7 +11,7 @@
 - ✨ I’m currently going into **Python more in-depth, learning some OSINT stuff, and studying pen testing basics**
 - ✨ I'm currently studying for my Security + and looking for ways to make code more secure, for every use
 
-- ⚡ Fun facts **Japanese & English are both my native languages**
+- ⚡ Fun facts:  **Japanese & English are both my native languages**
 - ✨ I also speak Spanish when my brain lets me, German (Danke, Deutschland!) and varying amounts of French and Korean
 - ✨ I'm learning Klingon!
 
@@ -15,7 +19,7 @@
 <p align="left">
 <a href="https://codepen.io/dijahcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dijahcodes" height="30" width="40" /></a>
 <a href="https://dev.to/dijahcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dijahcodes" height="30" width="40" /></a>
-<a href="https://twitter.com/dijahcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dijahcodes" height="30" width="40" /></a>
+<a href="https://twitter.com/helloimdijah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dijahcodes" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/helloimdijah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="helloimdijah" height="30" width="40" /></a>
 <a href="https://instagram.com/helloimdijah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="helloimdijah" height="30" width="40" /></a>
 </p>
