@@ -1,18 +1,26 @@
 <h1 align="left">Hallo, I'm Dijah!</h1>
 <h3 align="left">⭐ Security minded software engineer ⭐</h3>
 
-  my website: dijahcodes.github.io
-  e-mail: dijah (AT) dijah (DOT) codes
-  (yes, the domain is a .codes)
+---
+
+  - **my website:** dijahcodes.github.io
+  - **e-mail:** dijah (AT) dijah (DOT) codes
+  -  (yes, the domain is a .codes)
+
+ ---
 
 - ✨ I'm a dev that's back in the US after spending most of the last two years in Germany.
 - ✨I mostly use React, but I'm still exploring technologies to see what I like and don't like
 
-- ✨ I’m currently going into **Python more in-depth, learning some OSINT stuff, and studying pen testing basics**
-- ✨ I'm currently studying for my Security + and looking for ways to make code more secure, for every use
+  <br>
+
+- ✨ I’m currently going into Python more in-depth, learning some OSINT stuff, and studying pen testing basics
+- ✨ I'm currently studying for my Security + & I'm looking for ways to make development more secure to protect users from growing cyber-security risks
+
+  <br>
 
 - ⚡ Fun facts:  **Japanese & English are both my native languages**
-- ✨ I also speak Spanish when my brain lets me, German (Danke, Deutschland!) and varying amounts of French and Korean
+- ✨ I also speak German (Danke, Deutschland!), Spanish when my brain lets me, and varying amounts of French and Korean
 - ✨ I'm learning Klingon!
 
 <h3 align="left">Connect with me:</h3>
