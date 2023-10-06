@@ -10,7 +10,7 @@
  ---
 
 - ✨ I'm a dev that's back in the US after spending most of the last two years in Germany.
-- ✨I mostly use React, but I'm still exploring technologies to see what I like and don't like
+- ✨I mostly use React, but I'm still exploring technologies to see what I like. I'm really interested in exploring VR, AR, computational linguistics and security
 
   <br>
 
