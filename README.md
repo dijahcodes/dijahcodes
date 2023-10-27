@@ -6,16 +6,10 @@
   - **my website:** dijahcodes.github.io
   - **e-mail:** dijah (AT) dijah (DOT) codes
   -  (yes, the domain is a .codes)
-
- ---
+---
 
 - ✨ I'm a dev that's back in the US after spending most of the last two years in Germany.
 - ✨I mostly use React, but I'm still exploring technologies to see what I like. I'm really interested in exploring VR, AR, computational linguistics and security
-
-  <br>
-
-- ✨ I’m currently going into Python more in-depth, learning some OSINT stuff, and studying pen testing basics
-- ✨ I'm currently studying for my Security + & I'm looking for ways to make development more secure to protect users from growing cyber-security risks
 
   <br>
 
