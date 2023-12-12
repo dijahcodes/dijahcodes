@@ -4,7 +4,6 @@
 ---
 
   - **my website:** dijahcodes.github.io
-  - **e-mail:** dijah (AT) dijah (DOT) codes
   -  (yes, the domain is a .codes)
 ---
 
