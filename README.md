@@ -11,10 +11,6 @@
 
   <br>
 
-- ⚡ Fun facts:  **Japanese & English are both my native languages**
-- ✨ I also speak German (Danke, Deutschland!), Spanish when my brain lets me, and varying amounts of French and Korean
-- ✨ I'm learning Klingon!
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/dijahcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dijahcodes" height="30" width="40" /></a>
