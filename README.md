@@ -3,11 +3,11 @@
 
 ---
 
-  - **my website:** dijahcodes.github.io
+  - **my website (status: down):** dijahcodes.github.io
   -  (yes, the domain is a .codes)
 ---
 
-- ✨I mostly use React, but I'm still exploring technologies to see what I like. I'm really interested in exploring VR, AR, computational linguistics and security
+- ✨ I'm a security minded software engineer that is also interested in big bounty hunting, game development, and computational linguistics. 
 
   <br>
 
