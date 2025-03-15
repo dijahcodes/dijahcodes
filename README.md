@@ -7,7 +7,8 @@
   -  (yes, the domain is a .codes)
 ---
 
-- ✨ I'm a security minded software engineer that is also interested in big bounty hunting, game development, and computational linguistics. 
+ ✨ I'm a security minded software engineer that is also interested in penetration testing, game development, and creative coding.
+    Currently a Arizona State student majoring in Software Engineering
 
   <br>
 
