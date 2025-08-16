@@ -3,8 +3,8 @@
 
 ---
 
-  - **my website (status: down):** dijahcodes.github.io
-  -  (yes, the domain is a .codes)
+ website: dijah.codes
+ 
 ---
 
  ✨ I'm a security minded software engineer that is also interested in penetration testing, game development, and creative coding.
