@@ -3,12 +3,13 @@
 
 ---
 
- website: dijah.codes
+ website: dijah.codes (dijahcodes.github.io)
  
 ---
 
  ✨ I'm a security minded software engineer that is also interested in penetration testing, game development, and creative coding.
-    Currently a Arizona State student majoring in Software Engineering
+
+    
 
   <br>
 
