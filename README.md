@@ -1,13 +1,11 @@
-<h1 align="left">Hallo, I'm Dijah!</h1>
-<h3 align="left">⭐ Security minded software engineer ⭐</h3>
+# Dijah | Software & Security 🛡️⭐
+
+**I build software that stays up and keeps others out.**
+
+Currently focused on the intersection of penetration testing and software engineering, with a side quest in game development and creative coding.
 
 ---
-
- website: dijah.codes (dijahcodes.github.io)
- 
----
-
- ✨ I'm a security minded software engineer that is also interested in penetration testing, game development, and creative coding.
+🌐 [dijah.codes](https://dijah.codes) | 📧 [Contact Me]
 
     
 
