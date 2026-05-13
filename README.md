@@ -1,8 +1,8 @@
 # Dijah | Software & Security 🛡️⭐
 
-**I build software that stays up and keeps others out.**
+** I like coding, hacking, and snacking**
 
-Currently focused on the intersection of penetration testing and software engineering, with a side quest in game development and creative coding.
+Currently focused on securing AI, raspberryPi projects, and AI ethics
 
 ---
 🌐 [dijah.codes](https://dijah.codes) | 📧 [Contact Me]
